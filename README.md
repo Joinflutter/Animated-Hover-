@@ -1,4 +1,8 @@
-# sing_up_animation
+# Sing Up Hover Animation
+
+![Screenshot 2023-01-21 202326](https://user-images.githubusercontent.com/87581799/213877835-506697ec-3058-4940-ad47-d5c62ae1fe4a.jpg)
+![Screenshot 2023-01-21 202344](https://user-images.githubusercontent.com/87581799/213877842-a59b51cc-87f7-4985-850e-2841456ecd02.jpg)
+
 
 A new Flutter project.
 
